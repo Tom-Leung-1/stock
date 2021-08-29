@@ -9,11 +9,11 @@ windows_driver_path = "./web_driver/geckodriver.exe"
 mac_driver_path = "./web_driver/geckodriver"
 log_path = "./web_driver/geckodriver.log"
 class Browser():
-    browser = None
 
     def __init__(self, sleeptime = 10, headless=False):
         self.sleeptime = sleeptime
         self.headless = headless
+        self.browser = None
 
     def get_browser(self):
         if not self.browser:
@@ -74,5 +74,7 @@ class Browser():
 if __name__ == "__main__":
     browser = Browser()
     print(browser.retrieve_html('https://www.sec.gov/edgar/searchedgar/companysearch.html'))  #input('>')))
-    browser
+    browser.browser.find_element_by_id("company").send_keys("APPL")
+
+
 
