@@ -127,8 +127,6 @@ def get_csv():
     return df
 
 def string_clean(str):
-    if str == "BRKB":
-        str
     return re.sub('\.', "", str)
 
 if __name__ == '__main__':
