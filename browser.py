@@ -5,7 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 
-driver_path = "./web_driver/geckodriver.exe"
+windows_driver_path = "./web_driver/geckodriver.exe"
+mac_driver_path = "./web_driver/geckodriver"
 log_path = "./web_driver/geckodriver.log"
 class Browser():
     browser = None
@@ -18,7 +19,7 @@ class Browser():
         if not self.browser:
             options = Options()
             options.headless = self.headless
-            self.browser = webdriver.Firefox(executable_path=driver_path, log_path=log_path, options=options)
+            self.browser = webdriver.Firefox(executable_path=mac_driver_path, log_path=log_path, options=options)
         return self.browser
 
     def get_body_innerHTML(self):
@@ -74,13 +75,4 @@ if __name__ == "__main__":
     browser = Browser()
     print(browser.retrieve_html('https://www.sec.gov/edgar/searchedgar/companysearch.html'))  #input('>')))
     browser
-    #print(vBrowser.clickThru('經濟'))
 
-    #vBrowser.close_session()
-
-    #https://www.allkpop.com/search/articles/samuel
-    #print(vBrowser.browser.find_element_by_class_name('totalFBfans'))
-    #print (vBrowser.retrieveJS_html('https://www.biocentury.com/archives?page=12','views-row views-row-1 views-row-odd views-row-first'))
-    #print (vBrowser.execute_script("return document.body.innerHTML"))
-
-    #view-content clearfix
