@@ -313,3 +313,345 @@ Exiting due to channel error.
 Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
+1630232105119	geckodriver	INFO	Listening on 127.0.0.1:23162
+1630232108192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilejZ42fr"
+1630232108959	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilejZ42fr\\search.json.mozlz4", (void 0)))
+1630232111693	Marionette	INFO	Listening on port 23170
+1630232111871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390085,name=PContent::Msg_DispatchBeforeUnloadToSubtree) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39008A,name=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390021,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390021,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+1630232128234	geckodriver	INFO	Listening on 127.0.0.1:23234
+1630232131326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileaZtVEq"
+1630232131679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileaZtVEq\\search.json.mozlz4", (void 0)))
+1630232133757	Marionette	INFO	Listening on port 23242
+1630232133973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:250:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:250:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:250:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:250:32
+
+1630232240226	geckodriver	INFO	Listening on 127.0.0.1:32934
+1630232243292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilebChQS6"
+1630232243624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilebChQS6\\search.json.mozlz4", (void 0)))
+1630232245751	Marionette	INFO	Listening on port 32942
+1630232245953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1630232965131	geckodriver	INFO	Listening on 127.0.0.1:9954
+1630232968205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileuIt4uC"
+1630232968555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileuIt4uC\\search.json.mozlz4", (void 0)))
+1630232970759	Marionette	INFO	Listening on port 9962
+1630232970863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+1630233012221	Marionette	INFO	Stopped listening on port 9962
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630233013953	geckodriver	INFO	Listening on 127.0.0.1:10036
+1630233017032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilepGDDdA"
+1630233017381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilepGDDdA\\search.json.mozlz4", (void 0)))
+1630233019652	Marionette	INFO	Listening on port 10044
+1630233019681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+1630233053512	Marionette	INFO	Stopped listening on port 10044
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630233055700	geckodriver	INFO	Listening on 127.0.0.1:10112
+1630233058771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileotnsWu"
+1630233059122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileotnsWu\\search.json.mozlz4", (void 0)))
+1630233061340	Marionette	INFO	Listening on port 10120
+1630233061438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630233603823	geckodriver	INFO	Listening on 127.0.0.1:1029
+1630233606907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilefz4TUN"
+1630233607264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilefz4TUN\\search.json.mozlz4", (void 0)))
+1630233609469	Marionette	INFO	Listening on port 1033
+1630233609567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630233609636	Marionette	INFO	Stopped listening on port 1033
+Marionette threw an error: TypeError: chromeWindow is null
+waitForNavigationCompleted@chrome://remote/content/marionette/navigate.js:349:3
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:910:18
+
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1630233635278	geckodriver	INFO	Listening on 127.0.0.1:1043
+1630233638348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofile0R85tu"
+1630233638688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofile0R85tu\\search.json.mozlz4", (void 0)))
+1630233641145	Marionette	INFO	Listening on port 17365
+1630233641532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+console.warn: "Resource  of root-node was not found."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630234165126	geckodriver	INFO	Listening on 127.0.0.1:29572
+1630234168188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofile0Awi8L"
+1630234168542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofile0Awi8L\\search.json.mozlz4", (void 0)))
+1630234170753	Marionette	INFO	Listening on port 11246
+1630234170875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+console.warn: "Resource  of root-node was not found."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+console.warn: "Resource  of root-node was not found."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+console.warn: "Resource  of root-node was not found."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+1630234448226	geckodriver	INFO	Listening on 127.0.0.1:1040
+1630234451304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilejcyWeH"
+1630234451660	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilejcyWeH\\search.json.mozlz4", (void 0)))
+1630234453813	Marionette	INFO	Listening on port 33303
+1630234453972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630234494279	geckodriver	INFO	Listening on 127.0.0.1:1039
+1630234497350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileaaE26z"
+1630234497694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileaaE26z\\search.json.mozlz4", (void 0)))
+1630234499894	Marionette	INFO	Listening on port 18904
+1630234500021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630235116031	geckodriver	INFO	Listening on 127.0.0.1:1034
+1630235119127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofiler3b8OL"
+1630235119454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofiler3b8OL\\search.json.mozlz4", (void 0)))
+1630235121623	Marionette	INFO	Listening on port 23482
+1630235121807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630235288232	geckodriver	INFO	Listening on 127.0.0.1:3175
+1630235291354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileijiXvD"
+1630235291689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileijiXvD\\search.json.mozlz4", (void 0)))
+1630235293862	Marionette	INFO	Listening on port 20503
+1630235294007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630235356997	geckodriver	INFO	Listening on 127.0.0.1:1029
+1630235360088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofile5pg7RJ"
+1630235360409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofile5pg7RJ\\search.json.mozlz4", (void 0)))
+1630235362799	Marionette	INFO	Listening on port 10511
+1630235363243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630235609360	geckodriver	INFO	Listening on 127.0.0.1:17082
+1630235612474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileTqwIKO"
+1630235612804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileTqwIKO\\search.json.mozlz4", (void 0)))
+1630235614975	Marionette	INFO	Listening on port 30347
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1630235615129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630235703911	geckodriver	INFO	Listening on 127.0.0.1:1033
+1630235706986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileqv2ehv"
+1630235707312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofileqv2ehv\\search.json.mozlz4", (void 0)))
+1630235709470	Marionette	INFO	Listening on port 1040
+1630235709668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+JavaScript error: https://www.sec.gov/edgar/searchedgar/companysearch.html line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=789019&owner=exclude line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+1630235893067	Marionette	INFO	Stopped listening on port 1040
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630235894758	geckodriver	INFO	Listening on 127.0.0.1:23229
+1630235897873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilefmAg9Q"
+1630235898201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilefmAg9Q\\search.json.mozlz4", (void 0)))
+1630235900257	Marionette	INFO	Listening on port 19359
+1630235900544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=789019 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+1630235963335	Marionette	INFO	Stopped listening on port 19359
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630236881199	geckodriver	INFO	Listening on 127.0.0.1:29380
+1630236884255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilesBzgSF"
+1630236884615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hohol\\AppData\\Local\\Temp\\rust_mozprofilesBzgSF\\search.json.mozlz4", (void 0)))
+1630236887017	Marionette	INFO	Listening on port 26355
+1630236887407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=789019 line 240 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined

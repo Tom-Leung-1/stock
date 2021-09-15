@@ -9,6 +9,7 @@ import statsmodels.api as sm
 import statsmodels.graphics as gp
 key = open('./config/key.txt').read()
 
+# failure: daytrading etf using this model wont work, need modification
 class trading_model:
     # simple model:
     # based on open price, if price drops 0.004 -> buy all. if price rise 0.004 -> sell all (wait for next day) (limit order)
@@ -73,7 +74,6 @@ def plot_graph(x, y, title=None):
     plt.plot(x, y)
     plt.title(title)
     plt.show()
-
 
 def get_data(ticker, get_all=False, interval="1min"):
     df = None
