@@ -4,22 +4,36 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
+import os
 
 windows_driver_path = "./web_driver/geckodriver.exe"
 mac_driver_path = "./web_driver/geckodriver"
 log_path = "./web_driver/geckodriver.log"
 class Browser():
 
-    def __init__(self, sleeptime = 10, headless=False):
+    def __init__(self, sleeptime = 10, headless=False, path=None):
         self.sleeptime = sleeptime
         self.headless = headless
         self.browser = None
+        if path:
+            # see https://stackoverflow.com/questions/45097302/download-and-save-multiple-csv-files-using-selenium-and-python-from-popup
+            abs_path = os.path.abspath(path)
+            self.profile = webdriver.FirefoxProfile()
+            self.profile.set_preference("browser.download.dir", abs_path)
+            self.profile.set_preference("browser.download.folderList", 2)
+            self.profile.set_preference("browser.helperApps.neverAsk.saveToDisk", "text/csv")
+        else:
+            self.profile = None
 
     def get_browser(self):
         if not self.browser:
             options = Options()
             options.headless = self.headless
-            self.browser = webdriver.Firefox(executable_path=mac_driver_path, log_path=log_path, options=options)
+            if self.profile:
+                self.browser = webdriver.Firefox(firefox_profile=self.profile, executable_path=windows_driver_path, log_path=log_path, options=options)
+            else:
+                self.browser = webdriver.Firefox(executable_path=windows_driver_path,
+                                                 log_path=log_path, options=options)
         return self.browser
 
     def get_body_innerHTML(self):
