@@ -11,10 +11,11 @@ mac_driver_path = "./web_driver/geckodriver"
 log_path = "./web_driver/geckodriver.log"
 class Browser():
 
-    def __init__(self, sleeptime = 10, headless=False, path=None):
+    def __init__(self, sleeptime = 10, headless=False, path=None, mac=False):
         self.sleeptime = sleeptime
         self.headless = headless
         self.browser = None
+        self.driver_path = mac_driver_path if mac else windows_driver_path
         if path:
             # see https://stackoverflow.com/questions/45097302/download-and-save-multiple-csv-files-using-selenium-and-python-from-popup
             abs_path = os.path.abspath(path)
@@ -30,7 +31,7 @@ class Browser():
             options = Options()
             options.headless = self.headless
             if self.profile:
-                self.browser = webdriver.Firefox(firefox_profile=self.profile, executable_path=windows_driver_path, log_path=log_path, options=options)
+                self.browser = webdriver.Firefox(firefox_profile=self.profile, executable_path=self.driver_path, log_path=log_path, options=options)
             else:
                 self.browser = webdriver.Firefox(executable_path=windows_driver_path,
                                                  log_path=log_path, options=options)

@@ -1,0 +1,49 @@
+1631750242161	geckodriver	INFO	Listening on 127.0.0.1:50557
+1631750243193	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/s7/9m6dw9kj4_5ff9ttcgrr_kw00000gn/T/rust_mozprofileYSgutW"
+1631750244379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s7/9m6dw9kj4_5ff9ttcgrr_kw00000gn/T/rust_mozprofileYSgutW/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1631750247521	Marionette	INFO	Listening on port 50569
+1631750247610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631750549403	geckodriver	INFO	Listening on 127.0.0.1:50716
+1631750549424	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/s7/9m6dw9kj4_5ff9ttcgrr_kw00000gn/T/rust_mozprofileJ5J4pO"
+1631750550333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s7/9m6dw9kj4_5ff9ttcgrr_kw00000gn/T/rust_mozprofileJ5J4pO/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1631750552797	Marionette	INFO	Listening on port 50725
+1631750552823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 239 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=789019 line 239 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=1018724 line 239 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 239 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631750758624	geckodriver	INFO	Listening on 127.0.0.1:50877
+1631750758654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/s7/9m6dw9kj4_5ff9ttcgrr_kw00000gn/T/rust_mozprofileplidzQ"
+1631750759335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s7/9m6dw9kj4_5ff9ttcgrr_kw00000gn/T/rust_mozprofileplidzQ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1631750762450	Marionette	INFO	Listening on port 50886
+1631750762525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=320193 line 239 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=789019 line 239 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+JavaScript error: https://www.sec.gov/edgar/browse/?CIK=1018724 line 239 > injectedScript, line 5: ReferenceError: gtmYTplayers is not defined
+1631752417574	Marionette	INFO	Stopped listening on port 50569
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631752419226	Marionette	INFO	Stopped listening on port 50725
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631752420806	Marionette	INFO	Stopped listening on port 50886
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
